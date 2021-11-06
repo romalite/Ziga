@@ -3,7 +3,7 @@ ProjectZiga
 Robocode
 
 ```javascript 
-isAlive = true;
+let isAlive = true;
 do{
 code();
 }
