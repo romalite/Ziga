@@ -2,12 +2,17 @@
 ProjectZiga
 Robocode
 
-```javascript isAlive = true;
+```javascript 
+isAlive = true;
 do{
 code();
 }
 while(isAlive);
 
 function code() {
-alert
+alert('Hello World');
 }
+
+This is unordered list
+
+[this is link]()
