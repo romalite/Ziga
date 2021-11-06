@@ -2,7 +2,7 @@
 ProjectZiga
 Robocode
 
-```javascript
+let isAlive = true;
 do{
 code();
 }
